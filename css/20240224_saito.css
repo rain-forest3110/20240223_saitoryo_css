@@ -37,7 +37,7 @@ li {
 
 main {
     display: grid;
-    grid-template-rows: 300px 100px 100px 100px;
+    grid-template-rows: 290px 100px 105px 105px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-top: 100px;
 }
@@ -65,5 +65,5 @@ main {
 
 img {
     width: 750px;
-    height: 500px;
+    height: 490px;
 }
